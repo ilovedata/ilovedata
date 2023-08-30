@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
+_bookdown_files
+/.quarto/
+/_extensions/
+/docs/
+*.log
+*.aux
+*.lof
+*.lot
+*.toc
+*.tex

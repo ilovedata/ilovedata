@@ -1,0 +1,24 @@
+---
+title: "Yonghee Lee(이용희)"
+---
+
+
+## Work Information
+
+| Work  | Professor, Department of Statistics, University of Seoul 서울시립대 통계학과 교수 |
+|------|--------|
+|Office |	Mirae Building 7th floor #714 (미래관 7층 714호, 전화 02-6490-2635) |
+| email |	ylee@uos.ac.kr, dragonyh@gmail.com |
+| phone |	82-2-6490-2635 |
+| fax	| 82-2-6490-2629 |
+| homepage	| [https://ilovedata.github.io/](https://ilovedata.github.io/) |
+| Mailing address |	Department of Statistics, University of Seoul, 163 Siripdae-ro, Dongdaemun-gu, Seoul, Korea, 130-743 |
+|  |	서울시립대학교 통계학과, 130-743 서울특별시 동대문구 서울시립대로 163 |
+
+
+## Education
+
+- University of Wisconsin-Madison, Madison, Wisconsin, USA (Ph.D. in Statistics, 2002)
+- Seoul National University, Seoul, Korea (M.S. in Statistics, 1992)
+- Seoul National University, Seoul, Korea (B.S. in Computer Science and Statistics, 1990)
+
