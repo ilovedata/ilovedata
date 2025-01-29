@@ -3,25 +3,10 @@ title: "강의"
 ---
 
 
-## 2024년 봄 강의 
+## 2025년 봄 강의 
 
 
 - 통계적 예측모형(대학원)
 
   + [온라인 교과서](https://ilovedata.github.io/lmbook_2024/)
 
-- 실험계획법
-
-  + [온라인 연습 사이트](ilovedata.github.io/doe_book_2024/)
-
-## 2023년 가을 강의 
-
-
-- 데이터분석 방법론(대학원)
-
-  + [온라인 교과서](https://ilovedata.github.io/statmehods/)
-
-- 빅데이터분석을 위한 수학
-
-  + [교과서 홈페이지](https://mml-book.github.io/)
-  + [온라인 연습 사이트](https://uos-bigdata.github.io/bigdatamath_book/)
